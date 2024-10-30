@@ -23,7 +23,16 @@ This lab stands to prepare the moderngl development environment. Below the steps
 ```
 # Hello World Program
 Install pygame: in command, type 'pip install pygame'
-Run 
+Run
+
+# Multiple objects
+Install glm: in command, type 'pip install PyGLM'
+Run
+
+# Models and Images
+Install objloader module: in command, type pip install PyGLM-objloader
+If it doesn't work: in command, type pip install pywavefront
+
 
 # Consider that these instructions will be executed 
 in a completely new linux-based machine (Ubuntu 22.04),
