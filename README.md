@@ -30,18 +30,12 @@ Install glm: in command, type 'pip install PyGLM'
 Run
 
 # Models and Images
-Install objloader module: in command, type pip install PyGLM-objloader
-If it doesn't work: in command, type pip install pywavefront
+Install objloader module: in terminal, type pip install objloader
+Install the documentation (itesm.jpg, lowpoly_toy_car.obj and crate.obj) in the same directory as 09_models_and_images.py
+Line 110: replace 'examples/data/textures/crate.png' with your path
+Line 112: replace 'examples/data/models/lowpoly_toy_car.obj' with your path
+Line 115: replace 'examples/data/textures/crate.png' with your path
 
-
-# Consider that these instructions will be executed 
-in a completely new linux-based machine (Ubuntu 22.04),
-so, instructions for dependencies installation must be added.
-
-# It's highly recommended to use python virtual envs. 
-You may take a look on:
-https://docs.python.org/3/library/venv.html
-```
 
 ## Grading Policy
 
