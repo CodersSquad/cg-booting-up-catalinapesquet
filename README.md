@@ -21,7 +21,9 @@ This lab stands to prepare the moderngl development environment. Below the steps
 ## How to run your program
 
 ```
-# Update this section with instructions on how to run your programs. 
+# Hello World Program
+Install pygame: in command, type 'pip install pygame'
+Run 
 
 # Consider that these instructions will be executed 
 in a completely new linux-based machine (Ubuntu 22.04),
